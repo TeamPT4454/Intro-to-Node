@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "16.15.1",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamPT4454/Intro-to-Node.git"
+  },
+  "author": "Mickey Pavier-Tite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeamPT4454/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/TeamPT4454/Intro-to-Node#readme"
+}
